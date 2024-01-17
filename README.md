@@ -48,6 +48,7 @@ Vamos construir algo incrível juntos!
 ---
 
 <!-- Linguagens e Ferramentas 🔧 -->
+<!-- Linguagens e Ferramentas 🔧 -->
 ### Linguagens e Ferramentas
 
 <div align="center"> 
@@ -59,7 +60,7 @@ Vamos construir algo incrível juntos!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50px" width="50px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50px" width="50px" /> <!-- Substituição do React pelo Vue.js -->
 </div>
 
 
