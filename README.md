@@ -8,21 +8,30 @@
 - 📧 Entre em contato comigo: JuniorStranner@gmail.com
 - 😄 Pronomes: Ele/he
 
+
+
+
+<!-- Sobre Mim 🙋‍♂️ -->
+<!-- Sobre Mim 🙋‍♂️ -->
+### Sobre Mim
+
+Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 2 anos de experiência em desenvolvimento de software. Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas.
+
+Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de aplicativos utilizando Spring Boot. Possuo experiência em construção de aplicações usando o padrão Spring MVC, e também me aprofundei no uso do Thymeleaf para a criação de templates dinâmicos.
+
+Minha jornada no desenvolvimento de software envolve a busca contínua por aprendizado e a resolução criativa de desafios. Estou sempre explorando novas tecnologias para melhorar minhas habilidades e contribuir para projetos inovadores.
+
+Além do Java e Spring Boot, também tenho familiaridade com tecnologias front-end como HTML, CSS, JavaScript, além de frameworks como Node.js e React. Estou animado para continuar minha jornada no mundo da programação e construir soluções tecnológicas impactantes.
+
+Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/heinz-stranner-junior/) ou enviar um e-mail para [JuniorStranner@gmail.com](mailto:JuniorStranner@gmail.com).
+
+Vamos construir algo incrível juntos!
 ---
 <!-- Estatísticas 📊 -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Junior-Stranner&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
-
----
-
-<!-- Sobre Mim 🙋‍♂️ -->
-### Sobre Mim
-
-Oi, sou Heinz Stranner Junior, desenvolvedor de software apaixonado por tecnologia e programação. Atualmente, estou explorando diversas tecnologias para criar soluções inovadoras.
-
----
 
 <!-- Contato 📧 -->
 ### Contato
