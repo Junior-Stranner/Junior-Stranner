@@ -17,7 +17,16 @@
 
 ---
 
+<!-- Sobre Mim 🙋‍♂️ -->
+### Sobre Mim
+
+Oi, sou Heinz Stranner Junior, desenvolvedor de software apaixonado por tecnologia e programação. Atualmente, estou explorando diversas tecnologias para criar soluções inovadoras.
+
+---
+
 <!-- Contato 📧 -->
+### Contato
+
 <div align="center">
   <a href="https://www.linkedin.com/in/heinz-stranner-junior/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="50px" />
@@ -30,6 +39,8 @@
 ---
 
 <!-- Linguagens e Ferramentas 🔧 -->
+### Linguagens e Ferramentas
+
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50px" width="50px" />
@@ -41,6 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="50px" />
 </div>
+
 
 
 
