@@ -9,9 +9,7 @@
 - 😄 Pronomes: Ele/he
 
 ---
-
-## Estatísticas 📊
-
+<!-- Estatísticas 📊 -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Junior-Stranner&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
@@ -19,21 +17,19 @@
 
 ---
 
-## Contato 📧
-
+<!-- Contato 📧 -->
 <div align="center">
   <a href="https://www.linkedin.com/in/heinz-stranner-junior/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="50px" />
   </a>
-  <a href = "mailto:JuniorStranner@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:JuniorStranner@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="50px" width="50px" />
   </a>
 </div>
 
 ---
 
-## Linguagens e Ferramentas 🔧
-
+<!-- Linguagens e Ferramentas 🔧 -->
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50px" width="50px" />
@@ -45,6 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="50px" />
 </div>
+
 
 
 
