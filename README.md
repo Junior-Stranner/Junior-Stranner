@@ -65,6 +65,29 @@ Vamos construir algo incrível juntos!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50px" width="50px" /> <!-- Substituição do React pelo Vue.js -->
 </div>
 
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
+
+Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+<p>-Java</p> 
+<p>-Kotlin</p> 
+<p>-Spring Boot</p>
+<p>-Spring Cloud</p>
+<p>-Microsservicos</p>
+<p>-Server-Sent Events (SSE)</p>
+<p>-WebSockets</p>
+<p>-Banco de dados (MSSQL e MySQL)</p>
+<p>-Redis</p>
+<p>-Docker</p>
+<p>-Kafka</p>
+<p>-AWS Bucket S3</p>
+<p>-AWS Lambda</p>
+<p>-AWS Rekognition</p>
+
+<hr>
+
+
 
 
 
