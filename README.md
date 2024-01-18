@@ -26,6 +26,8 @@ Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://
 
 Vamos construir algo incrível juntos!
 
+<img src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
+
 ---
 <!-- Estatísticas 📊 -->
 <div align="center">  
