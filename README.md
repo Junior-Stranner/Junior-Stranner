@@ -71,7 +71,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Spring Boot</p>
 <p>-Spring Cloud</p>
 <p>-Microsservicos</p>
-<p>-WebSockets</p>
+<p>Docker</p>
 <p>-Banco de dados PostgreSQL</p>
 <p>vue</p>
 
