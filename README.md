@@ -69,7 +69,7 @@ Vamos construir algo incrível juntos!
 
 ### Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,csharp,spring,postgresql,docker,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c#,spring,postgresql,docker,vue)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 <p>-Java</p> 
