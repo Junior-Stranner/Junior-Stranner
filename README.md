@@ -51,7 +51,7 @@ Vamos construir algo incrível juntos!
 
 <!-- Linguagens e Ferramentas 🔧 -->
 <!-- Linguagens e Ferramentas 🔧 -->
-### Linguagens e Ferramentas
+
 
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px" />  
@@ -67,23 +67,19 @@ Vamos construir algo incrível juntos!
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
+### Linguagens e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=java,c#,spring,postgreSQL,docker,vue)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 <p>-Java</p> 
-<p>-Kotlin</p> 
+<p>C#</p> 
 <p>-Spring Boot</p>
 <p>-Spring Cloud</p>
 <p>-Microsservicos</p>
-<p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
-<p>-Banco de dados (MSSQL e MySQL)</p>
-<p>-Redis</p>
-<p>-Docker</p>
-<p>-Kafka</p>
-<p>-AWS Bucket S3</p>
-<p>-AWS Lambda</p>
-<p>-AWS Rekognition</p>
+<p>-Banco de dados PostgreSQL</p>
+<p>vue</p>
 
 <hr>
 
