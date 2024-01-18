@@ -1,15 +1,9 @@
-# Hi there! 👋
-
 ## Olá, eu sou Heinz Stranner Junior! 👨‍💻
-
-- 🔭 Sou um estudante ansioso pela minha primeira oportunidade.
+- 🔭 Sou um estudante ansioso por uma oportunidade.
 - 🌱 Atualmente, estou estudando Java Back-end (Spring Framework) e Banco de Dados PostgreSQL.
 - 🤔 Sou uma pessoa estudiosa, mas às vezes me perco em conteúdos difíceis de entender.
 - 📧 Entre em contato comigo: JuniorStranner@gmail.com
 - 😄 Pronomes: Ele/he
-
-
-
 
 <!-- Sobre Mim 🙋‍♂️ -->
 ### Sobre Mim
@@ -53,7 +47,7 @@ Vamos construir algo incrível juntos!
 <!-- Linguagens e Ferramentas 🔧 -->
 
 
-<div align="center"> 
+<!--<div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50px" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="50px" />
