@@ -9,7 +9,7 @@
 <!-- Sobre Mim 🙋‍♂️ -->
 ### Sobre Mim
 
-<p align="left">Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 2 anos de experiência em desenvolvimento de software. Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas. !</p>
+<p align="left">Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 2 anos de experiência em desenvolvimento de software. Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas. !
 
 Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de aplicativos utilizando Spring Boot. Possuo experiência em construção de aplicações usando o padrão Spring MVC, e também me aprofundei no uso do Thymeleaf para a criação de templates dinâmicos.
 
@@ -17,7 +17,7 @@ Minha jornada no desenvolvimento de software envolve a busca contínua por apren
 
 Além do Java e Spring Boot, também tenho familiaridade com tecnologias front-end como HTML, CSS, JavaScript, além de frameworks como Node.js e Vue.js. Estou animado para continuar minha jornada no mundo da programação e construir soluções tecnológicas impactantes.
 
-Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/heinz-stranner-junior/) ou enviar um e-mail para [JuniorStranner@gmail.com](mailto:JuniorStranner@gmail.com).
+Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/heinz-stranner-junior/) ou enviar um e-mail para [JuniorStranner@gmail.com](mailto:JuniorStranner@gmail.com).</p>
 
 Vamos construir algo incrível juntos!
 ---
