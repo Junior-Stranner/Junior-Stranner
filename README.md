@@ -20,12 +20,18 @@ Além do Java e Spring Boot, também tenho familiaridade com tecnologias front-e
 Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/heinz-stranner-junior/) ou enviar um e-mail para [JuniorStranner@gmail.com](mailto:JuniorStranner@gmail.com).</p>
 
 Vamos construir algo incrível juntos!
+
+<details open>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+    <br>
 ---
 <!-- Estatísticas 📊 -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Junior-Stranner&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
+
+</details
 
 <!-- Contato 📧 -->
 ### Contato
