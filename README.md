@@ -77,14 +77,4 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <hr>
 
 
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junior-Stranner/Junior-Stranner/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junior-Stranner/Junior-Stranner/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junior-Stranner/Junior-Stranner/output/github-contribution-grid-snake.svg">
-</picture>
-
  ![Snake animation](https://github.com/Junior-Stranner/Junior-Stranner/blob/output/github-contribution-grid-snake.svg)
