@@ -15,7 +15,7 @@ Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de
 
 Minha jornada no desenvolvimento de software envolve a busca contínua por aprendizado e a resolução criativa de desafios. Estou sempre explorando novas tecnologias para melhorar minhas habilidades e contribuir para projetos inovadores.
 
-Além do Java e Spring Boot, também tenho familiaridade com tecnologias front-end como HTML, CSS, JavaScript, além de frameworks como Node.js e Vue.js. Estou animado para continuar minha jornada no mundo da programação e construir soluções tecnológicas impactantes.
+Além do Java e Spring Boot, também tenho familiaridade com tecnologias front-end como HTML, CSS, JavaScript, além de estar focando no frameworks como Vue.js. Estou animado para continuar minha jornada no mundo da programação e construir soluções tecnológicas impactantes.
 
 Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/heinz-stranner-junior/) ou enviar um e-mail para [JuniorStranner@gmail.com](mailto:JuniorStranner@gmail.com).</p>
 
