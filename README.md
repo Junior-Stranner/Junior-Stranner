@@ -32,15 +32,14 @@ Vamos construir algo incrível juntos!
 <!-- Contato 📧 -->
 ### Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/heinz-stranner-junior/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="50px" />
-  </a>
-  <a href="mailto:JuniorStranner@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="50px" width="50px" />
-  </a>
 </div>
 
+<h1 align="middle">Contato 📧</h1>
+<div align="middle">
+  <a href = https://www.linkedin.com/in/heinz-stranner-junior/ > 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigh = 50px width =50px />
+  </a>
+</div>
 ---
 
 <!-- Linguagens e Ferramentas 🔧 -->
