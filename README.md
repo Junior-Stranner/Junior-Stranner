@@ -40,7 +40,7 @@ Vamos construir algo incrível juntos!
 
 <h1 align="middle">Contato 📧</h1>
 <div align="middle">
-<a href="https://www.gmail.com/in/JuniorStranner@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.gmail.com/in/JuniorStranner@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Heinz Stranner Junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
 </div>
@@ -66,7 +66,7 @@ Vamos construir algo incrível juntos!
 
 ### Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,csharp,spring,spring-security,swagger,postgresql,docker,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,csharp,spring,spring-security,swagger,hateoas,postgresql,docker,vue)](https://skillicons.dev)
 https://skillicons.dev/icons?i=all
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
