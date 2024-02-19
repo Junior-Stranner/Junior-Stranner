@@ -67,18 +67,21 @@ Vamos construir algo incrível juntos!
 ### Linguagens e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,csharp,spring,spring-security,swagger,hateoas,postgresql,docker,vue)](https://skillicons.dev)
-https://skillicons.dev/icons?i=all
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
-<p>-Java</p> 
-<p>C#</p> 
-<p>-Spring Boot</p>
-<p>-Spring Cloud</p>
+
+<p>Java</p>
+
+<p>-Spring Boot - Spring Boot (Web, Data JPA, Security)</p>
+<p>-Spring MVC</p>
 <p>-Microsservicos</p>
 <p>Spring Security</p>
 <p>SWAGGER</p>
 <p>-Banco de dados PostgreSQL</p>
+<p>C#</p> 
 <p>vue</p>
+
+<p>GIT</p>
 
 <hr>
 
