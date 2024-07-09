@@ -11,7 +11,6 @@
 <img src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 <!-- Sobre Mim 🙋‍♂️ -->
 ### Sobre Mim
-
 <p align="left">Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 2.5 anos de experiência em desenvolvimento de software. Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas. !
 
 Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de aplicativos utilizando Spring Boot. Possuo experiência em construção de aplicações usando o padrão Spring MVC, e também me aprofundei no uso do Thymeleaf para a criação de templates dinâmicos.
@@ -44,13 +43,13 @@ Vamos construir algo incrível juntos!
 ### Linguagens e Ferramentas
 
 ### 💻Technologys
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,cs,git,jwt,postman,jdbc,thymeleaf" />
-  </a>
-</p>
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,cs,git,jwt,postman,jdbc,thymeleaf,php" />
+  </a>
+</p>
 
 <div align="center">
  <br/><br/><br/>
