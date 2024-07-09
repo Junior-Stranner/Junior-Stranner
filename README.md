@@ -45,21 +45,6 @@ Vamos construir algo incrível juntos!
   </a>
 </div>
 ---
-
-<!-- Linguagens e Ferramentas 🔧 -->
-<!-- Linguagens e Ferramentas 🔧 -->
-
-
-<!--<div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50px" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50px" width="50px" /> <!-- Substituição do React pelo Vue.js -->
 </div>
 
 <hr>
@@ -69,7 +54,7 @@ Vamos construir algo incrível juntos!
 ### 💻Technologys
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,Hibernate&JPA,postgres,mysql,js,csharp,git" />
+<img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,csharp,git" />
   </a>
 </p>
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
