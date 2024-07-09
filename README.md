@@ -54,7 +54,7 @@ Vamos construir algo incrível juntos!
 ### 💻Technologys
 <p align="left">
   <a href="https://skillicons.dev">
-<img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,csharp,git" />
+    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,cs,git,jwt,postman,jdbc,thymeleaf" />
   </a>
 </p>
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
