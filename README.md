@@ -47,7 +47,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,cs,git,jwt,postman,jdbc,thymeleaf,php" />
+    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,cs,git,jwt,postman,jdbc,thymeleaf,php" alt="Skills Icons" />
   </a>
 </p>
 
