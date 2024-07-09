@@ -31,24 +31,6 @@ Vamos construir algo incrível juntos!
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
-</details
-
-<!-- Contato 📧 -->
-### Contato
-
-</div>
-
-<h1 align="middle">Contato 📧</h1>
-<div align="middle">
-<a href="https://www.gmail.com/in/JuniorStranner@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Heinz Stranner Junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
-</div>
----
-</div>
-
-<hr>
-
 ### Linguagens e Ferramentas
 
 ### 💻Technologys
@@ -59,20 +41,11 @@ Vamos construir algo incrível juntos!
 </p>
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 
-<p>Java</p>
 
-<p>-Spring Boot - Spring Boot (Web, Data JPA, Security)</p>
-<p>-Spring MVC</p>
-<p>-Microsservicos</p>
-<p>Spring Security</p>
-<p>SWAGGER</p>
-<p>-Banco de dados PostgreSQL</p>
-<p>C#</p> 
-<p>vue</p>
+### My social media 📧
+<a href="https://www.linkedin.com/in/kenia-de-oliveira-309b41268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/keniaooliver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:keniaolivereis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://twitter.com/Keniaoliveer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-<p>GIT</p>
-
-<hr>
-
-
- ![Snake animation](https://github.com/Junior-Stranner/Junior-Stranner/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=footer"/>
