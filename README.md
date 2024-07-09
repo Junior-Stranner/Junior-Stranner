@@ -17,7 +17,14 @@ Minha jornada no desenvolvimento de software envolve a busca contínua por apren
 
 Além do Java e Spring Boot, também tenho familiaridade com tecnologias front-end como HTML, CSS, JavaScript, além de estar focando no frameworks como Vue.js. Estou animado para continuar minha jornada no mundo da programação e construir soluções tecnológicas impactantes.
 
-Se quiser conectar-se, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/heinz-stranner-junior/) ou enviar um e-mail para [JuniorStranner@gmail.com](mailto:JuniorStranner@gmail.com).</p>
+Se quiser conectar-se, fique à vontade para me encontrar nas diversas redes sociais aqui em-baixo
+
+### My social media 📧
+<a href="https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/junior_stranner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:JuniorStranner@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+.</p>
 
 Vamos construir algo incrível juntos!
 
@@ -40,12 +47,5 @@ Vamos construir algo incrível juntos!
   </a>
 </p>
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
-
-
-### My social media 📧
-<a href="https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/junior_stranner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:juniorstranner@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=footer"/>
