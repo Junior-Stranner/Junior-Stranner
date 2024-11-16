@@ -48,7 +48,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 
 ## <center> skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman,html,css,js,figma,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman,html,css,js,figma,bootstrap,thymeleaf,git" />
 </div>
 
 ## Estudando atualmente:
@@ -57,12 +57,6 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 </div>
 <br>
 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,hibernate,postgres,mysql,js,cs,git,jwt,postman,jdbc,thymeleaf,php" alt="Skills Icons" />
-  </a>
-</p>
 
 <div align="center">
  <br/><br/><br/>
