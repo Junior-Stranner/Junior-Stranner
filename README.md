@@ -13,7 +13,7 @@
 ### Sobre Mim
 <p align="left">Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 2.5 anos de experiência em desenvolvimento de software. Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas. !
 
-Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de aplicativos utilizando Spring Boot. Possuo experiência em construção de aplicações usando o padrão Spring MVC, e também me aprofundei no uso do Thymeleaf para a criação de templates dinâmicos.
+Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de aplicativos utilizando Spring Framework. Possuo experiência em construção de aplicações usando o padrão Spring MVC, e também me aprofundei no uso do Thymeleaf para a criação de templates dinâmicos. Criação de APi s Rest e Resfull com Spring Boot , Microserices , Docker , DTO , Swagger-OpenAPI (Documentação), Spring Security , Jwt
 
 Minha jornada no desenvolvimento de software envolve a busca contínua por aprendizado e a resolução criativa de desafios. Estou sempre explorando novas tecnologias para melhorar minhas habilidades e contribuir para projetos inovadores.
 
@@ -48,7 +48,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 
 ## <center> skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman,html,css,js,figma,bootstrap,thymeleaf,git" />
+    <img src="https://skillicons.dev/icons?i=java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman,html,css,js,figma,bootstrap,docker,git" />
 </div>
 
 ## Estudando atualmente:
