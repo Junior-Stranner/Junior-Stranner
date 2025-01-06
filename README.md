@@ -40,6 +40,27 @@ Vamos construir algo incrível juntos!
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Junior-Stranner}/count.svg" /></p> 
+</div>
+
+<div align="center">
+  <h2>Contribuições</h2>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<div align="center">
+ <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+  
+  <br/><br/><br/>
+</div>
+
 ### Linguagens e Ferramentas
 
 ### 💻Technologys
