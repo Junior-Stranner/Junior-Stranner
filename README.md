@@ -46,13 +46,6 @@ Vamos construir algo incrível juntos!
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Junior-Stranner}/count.svg" /></p> 
 </div>
 
-<div align="center">
- <br/><br/><br/>
-  <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-  
-  <br/><br/><br/>
-</div>
-
 ### Linguagens e Ferramentas
 
 ### 💻Technologys
