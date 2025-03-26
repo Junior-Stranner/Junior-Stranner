@@ -11,7 +11,7 @@
 <img src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 <!-- Sobre Mim 🙋‍♂️ -->
 ### Sobre Mim
-<p align="left">Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 2.5 anos de experiência em desenvolvimento de software. Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas. !
+<p align="left">Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 3 anos de experiência em desenvolvimento de software. 9 messes de experiencia Profissional Durante esse período, concentrei-me principalmente no ecossistema Java, adquirindo proficiência na linguagem Java e explorando diversas tecnologias relacionadas. !
 
 Ao longo do último ano, dediquei-me ao framework Spring e ao desenvolvimento de aplicativos utilizando Spring Framework. Possuo experiência em construção de aplicações usando o padrão Spring MVC, e também me aprofundei no uso do Thymeleaf para a criação de templates dinâmicos. Criação de APi s Rest e Resfull com Spring Boot , Microserices , Docker , DTO , Swagger-OpenAPI (Documentação), Spring Security , Jwt
 
