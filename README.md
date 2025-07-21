@@ -16,7 +16,7 @@ No último ano, mergulhei no Spring Framework, desenvolvendo aplicações com Sp
 
 Minha jornada como desenvolvedor é marcada pela busca constante de aprendizado e pela vontade de resolver problemas de forma criativa. Acredito que tecnologias e linguagens são ferramentas — meu verdadeiro foco é entender o problema e entregar a melhor solução possível.
 
-Embora hoje eu concentre meus estudos e projetos em Java e Spring, isso não limita minha capacidade ou interesse em trabalhar com outras tecnologias. Tenho experiência com HTML, CSS, JavaScript e estou aprofundando meus conhecimentos em frameworks como Vue.js.
+Embora hoje eu concentre meus estudos e projetos em Java e Spring, isso não limita minha capacidade ou interesse em trabalhar com outras tecnologias. Tenho experiência com C#, PHP, JavaScript e estou aprofundando meus conhecimentos em frameworks como Vue.js.
 
 Estou sempre pronto para aprender, colaborar em projetos desafiadores e construir soluções inovadoras.
 
