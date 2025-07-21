@@ -14,7 +14,7 @@
 <p align="left">
   Olá! Sou Heinz Stranner Junior, um entusiasta da programação com mais de 3,5 anos de experiência em desenvolvimento de software — sendo 9 meses de atuação profissional. Nesse tempo, dediquei-me principalmente ao ecossistema Java, consolidando minha proficiência na linguagem e explorando tecnologias associadas.
   <br /><br />
-  No último ano, aprofundei meus conhecimentos no <strong>Spring Framework</strong>, desenvolvendo aplicações com <strong>Spring MVC</strong> e APIs REST/RESTful usando <strong>Spring Boot</strong>. Atuei em projetos com <strong>Microservices</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>DTO</strong>, <strong>Swagger/OpenAPI</strong> (documentação), <strong>Spring Security</strong> e <strong>JWT</strong>. Também trabalhei com <strong>Thymeleaf</strong> para criação de templates dinâmicos.
+  No último ano, aprofundei meus conhecimentos no <strong>Spring Framework</strong>, desenvolvendo aplicações com <strong>Spring MVC</strong> e APIs REST / RESTful usando <strong>Spring Boot</strong>. Atuei em projetos com <strong>Microservices</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>DTO</strong>, <strong>Swagger/OpenAPI</strong> (documentação), <strong>Spring Security</strong> e <strong>JWT</strong>. Também trabalhei com <strong>Thymeleaf</strong> para criação de templates dinâmicos.
   <br /><br />
   Minha jornada como desenvolvedor é marcada pela busca constante por aprendizado e pela vontade de resolver problemas de forma criativa. Acredito que linguagens e tecnologias são ferramentas — meu verdadeiro foco está em entender o problema e entregar a melhor solução possível.
   <br /><br />
