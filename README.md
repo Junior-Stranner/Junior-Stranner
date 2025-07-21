@@ -11,18 +11,20 @@
 <img src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 <!-- Sobre Mim 🙋‍♂️ -->
 ### Sobre Mim
-<p align="left"> Oi, sou Heinz Stranner Junior, um entusiasta da programação com mais de 3 anos de experiência em desenvolvimento de software, sendo 9 meses em atuação profissional. Nesse tempo, foquei principalmente no ecossistema Java, adquirindo sólida proficiência na linguagem e explorando tecnologias relacionadas.
-No último ano, mergulhei no Spring Framework, desenvolvendo aplicações com Spring MVC, criando APIs RESTful com Spring Boot, trabalhando com Microservices, Docker, DTO, Swagger/OpenAPI (Documentação), Spring Security e JWT. Também utilizei o Thymeleaf para criação de templates dinâmicos.
-
-Minha jornada como desenvolvedor é marcada pela busca constante de aprendizado e pela vontade de resolver problemas de forma criativa. Acredito que tecnologias e linguagens são ferramentas — meu verdadeiro foco é entender o problema e entregar a melhor solução possível.
-
-Embora hoje eu concentre meus estudos e projetos em Java e Spring, isso não limita minha capacidade ou interesse em trabalhar com outras tecnologias. Tenho experiência com C#, PHP, JavaScript e estou aprofundando meus conhecimentos em frameworks como Vue.js.
-
-Estou sempre pronto para aprender, colaborar em projetos desafiadores e construir soluções inovadoras.
-
-Se quiser se conectar, sinta-se à vontade para me encontrar nas redes sociais abaixo!
-
+<p align="left">
+  Olá! Sou Heinz Stranner Junior, um entusiasta da programação com mais de 3,5 anos de experiência em desenvolvimento de software — sendo 9 meses de atuação profissional. Nesse tempo, dediquei-me principalmente ao ecossistema Java, consolidando minha proficiência na linguagem e explorando tecnologias associadas.
+  <br /><br />
+  No último ano, aprofundei meus conhecimentos no <strong>Spring Framework</strong>, desenvolvendo aplicações com <strong>Spring MVC</strong> e APIs REST/RESTful usando <strong>Spring Boot</strong>. Atuei em projetos com <strong>Microservices</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>DTO</strong>, <strong>Swagger/OpenAPI</strong> (documentação), <strong>Spring Security</strong> e <strong>JWT</strong>. Também trabalhei com <strong>Thymeleaf</strong> para criação de templates dinâmicos.
+  <br /><br />
+  Minha jornada como desenvolvedor é marcada pela busca constante por aprendizado e pela vontade de resolver problemas de forma criativa. Acredito que linguagens e tecnologias são ferramentas — meu verdadeiro foco está em entender o problema e entregar a melhor solução possível.
+  <br /><br />
+  Apesar de atualmente focar em <strong>Java</strong> e <strong>Spring Boot</strong>, não me limito a essas tecnologias. Tenho experiência com <strong>C#</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, e venho me aprofundando em frameworks como <strong>Vue.js</strong>. Também utilizo ferramentas como <strong>Git/GitHub</strong>, <strong>Postman</strong> para testes de APIs, e realizo testes automatizados com <strong>JUnit</strong>, <strong>Mockito</strong>, sempre aplicando boas práticas no desenvolvimento de APIs REST/RESTful.
+  <br /><br />
+  Estou sempre em busca de novos desafios, oportunidades para colaborar em projetos inovadores e de evolução contínua.
+  <br /><br />
+  Se quiser se conectar, fique à vontade para me chamar nas redes sociais abaixo!
 </p>
+
 
 ### My social media 📧
 <a href="https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
