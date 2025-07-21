@@ -2,11 +2,11 @@
 
 
 ## Olá, eu sou Heinz Stranner Junior! 👨‍💻
-- 🔭 Sou um Profissional que busca uma oportunidade.
-- 🌱 Atualmente, estou estudando Java Back-end (Spring Framework) e Banco de Dados PostgreSQL.
-- 🤔 Sou uma pessoa estudiosa, mas às vezes me perco em conteúdos difíceis de entender.
-- 📧 Entre em contato comigo: hstrannerjr.dev@gmail.com
-- 😄 Pronomes: Ele/he
+🔭 Buscando uma oportunidade como Desenvolvedor Back-end.
+🌱 Atualmente focado em Java (Spring Framework) e bancos de dados PostgreSQL/MySQL.
+🤔 Apaixonado por aprendizado contínuo — mesmo que, às vezes, me desafie com conteúdos complexos.
+📧 Contato: hstrannerjr.dev@gmail.com
+😄 Pronomes: Ele/He
 
 <img src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 <!-- Sobre Mim 🙋‍♂️ -->
