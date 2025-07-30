@@ -41,10 +41,10 @@ Vamos construir algo incrível juntos! 🚀
   </div>
 </details>
 
-<div align="center">
+<!--<div align="center">
   <br><p><strong>Contagem de visitantes</strong></p>  
   <img src="https://profile-counter.glitch.me/Junior-Stranner/count.svg" />
-</div>
+</div>-->
 
 ---
 
