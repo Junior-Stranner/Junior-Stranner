@@ -43,7 +43,7 @@ Vamos construir algo incrível juntos! 🚀
 
 <div align="center">
   <br><p><strong>Contagem de visitantes</strong></p>  
-  <img src="https://profile-counter.glitch.me/{Junior-Stranner}/count.svg" />
+  <img src="https://profile-counter.glitch.me/Junior-Stranner/count.svg" />
 </div>
 
 ---
