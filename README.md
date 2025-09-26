@@ -62,8 +62,8 @@ Vamos construir algo incrível juntos! 🚀
 
 ##
  
-  ![Snake animation](https://github.com/Junior-Stranner/Junior-Stranner/blob/output/github-contribution-grid-snake.svg)   
-</div>
+## My contributions
+![snake gif](https://github.com/Junior-Stranner/Junior-Stranner/blob/output/github-snake-dark.svg)</div>
 
 ---
 
