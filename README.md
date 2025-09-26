@@ -60,6 +60,11 @@ Vamos construir algo incrível juntos! 🚀
   <img src="https://skillicons.dev/icons?i=rabbitmq,aws" />
 </div>
 
+##
+ 
+  ![Snake animation](https://github.com/Junior-Stranner/Junior-Stranner/blob/output/github-contribution-grid-snake.svg)   
+</div>
+
 ---
 
 <div align="center">
