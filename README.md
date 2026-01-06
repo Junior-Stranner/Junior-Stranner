@@ -75,7 +75,7 @@ Vamos construir algo incrível juntos! 🚀
 
 ##
  
-## 🌐 Connect With Me: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+<!--## 🌐 Connect With Me: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <p align="center">
   
   <a href="https://www.linkedin.com/Heinz Stranner Junior" target="_blank">
@@ -87,12 +87,12 @@ Vamos construir algo incrível juntos! 🚀
   <a href="https://Junior-Stranner.netlify.app/Junior-Stranner" target="_blank">
     <img src="https://img.icons8.com/fluency/48/snapchat.png" alt="Snapchat"
     </a>
-  <!-- Gmail -->
+  <!-- Gmail 
   <a href="mailto:hstrannerjr.dev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
 
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior-stranner/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hstrannerjr.dev@gmail.com)
@@ -100,7 +100,7 @@ Vamos construir algo incrível juntos! 🚀
 
 ![copyImage](https://github.com/user-attachments/assets/b62bdb07-d9cd-4a84-95c4-cd1df174a0ec)
 ---
-
+-->
 <div align="center">
   <br><br>
   <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
