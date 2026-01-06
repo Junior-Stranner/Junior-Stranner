@@ -26,7 +26,6 @@ Estou constantemente buscando novos desafios e oportunidades para aprender e con
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior-stranner/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hstrannerjr.dev@gmail.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hstrannerjr.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23009688?style=for-the-badge&logo=netlify&logoColor=white)](https://Junior-Stranner.netlify.app)
 
 
@@ -38,16 +37,18 @@ Vamos construir algo incrível juntos! 🚀
 <details open>
   <summary>⚙ <strong>GitHub Analytics</strong></summary>
   <br>
-  <div align="center">  
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Junior-Stranner&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
-    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
+  <div align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Junior-Stranner&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
   </div>
 </details>
 
-<!--<div align="center">
+<!--
+<div align="center">
   <br><p><strong>Contagem de visitantes</strong></p>  
   <img src="https://profile-counter.glitch.me/Junior-Stranner/count.svg" />
-</div>-->
+</div>
+-->
 
 ---
 
