@@ -75,9 +75,30 @@ Vamos construir algo incrível juntos! 🚀
 
 ##
  
-## My contributions
-![snake gif](https://github.com/Junior-Stranner/Junior-Stranner/blob/output/github-snake-dark.svg)</div>
+## 🌐 Connect With Me: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/Heinz Stranner Junior" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://pin.it/2kO4pl3Q4" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/pinterest.png" alt="Pinterest"/>
+  </a>
+  <a href="https://Junior-Stranner.netlify.app/Junior-Stranner" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/snapchat.png" alt="Snapchat"
+    </a>
+  <!-- Gmail -->
+  <a href="mailto:hstrannerjr.dev@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
+  </a>
 
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior-stranner/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hstrannerjr.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23009688?style=for-the-badge&logo=netlify&logoColor=white)](https://Junior-Stranner.netlify.app)
+
+![copyImage](https://github.com/user-attachments/assets/b62bdb07-d9cd-4a84-95c4-cd1df174a0ec)
 ---
 
 <div align="center">
