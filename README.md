@@ -12,12 +12,11 @@
 
 ### Sobre Mim 🙋‍♂️
 
-Olá! Sou Heinz Stranner Junior, desenvolvedor apaixonado por tecnologia com mais de 3,5 anos de experiência em programação — sendo 9 meses de atuação profissional. Ao longo dessa jornada, concentrei meus esforços no ecossistema Java, especialmente com o Spring Framework.
+Olá! Sou Heinz Stranner Junior, desenvolvedor apaixonado por tecnologia com mais de 4 de experiência em programação — sendo 1 ano e 3 messes de atuação profissional. Ao longo dessa jornada, concentrei meus esforços no ecossistema Java, especialmente com o Spring Framework.
 
-No último ano, me aprofundei no desenvolvimento de aplicações utilizando **Spring MVC**, **Spring Boot**, e APIs **REST/RESTful**. Já atuei com **Microservices**, **Docker**, **Kubernetes**, **DTO**, **Swagger/OpenAPI**, **Spring Security** e **JWT**. Também possuo experiência com o motor de templates **Thymeleaf**.
+No último ano, me aprofundei no desenvolvimento de aplicações utilizando **Spring MVC**, **Spring Boot**, APIs **REST/RESTful** , **Microservices** , **Kubernetes**. Já atuei com  **Docker**, **DTO**, **Swagger/OpenAPI**, **Spring Security** e **JWT** **HATEOS** ,**Value Object (VO)**. Também possuo experiência com o motor de templates **Thymeleaf**.
 
-Embora meu foco atual seja em **Java** e **Spring**, também já trabalhei com **C#**, **PHP**, **JavaScript** e estou aprendendo **Vue.js**. Utilizo ferramentas como **Git/GitHub**, **Postman** e realizo testes com **JUnit** e **Mockito**, sempre buscando aplicar boas práticas de desenvolvimento.
-
+Embora meu foco atual seja em **Java** com **Spring**, também já trabalhei com **C#**, **PHP**, **JavaScript**. Utilizo ferramentas como **Git/GitHub**, **Postman** e realizo testes com **JUnit** e **Mockito**, sempre buscando aplicar boas práticas de desenvolvimento.
 Estou constantemente buscando novos desafios e oportunidades para aprender e contribuir com projetos inovadores. Se quiser trocar uma ideia, será um prazer!
 
 ---
@@ -25,8 +24,12 @@ Estou constantemente buscando novos desafios e oportunidades para aprender e con
 ### 📧 Minhas redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-stranner-junior-0838b1238/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior_stranner/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorstranner@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior-stranner/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hstrannerjr.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hstrannerjr.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23009688?style=for-the-badge&logo=netlify&logoColor=white)](https://Junior-Stranner.netlify.app)
+
+
 
 Vamos construir algo incrível juntos! 🚀
 
