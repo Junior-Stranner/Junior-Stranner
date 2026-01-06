@@ -34,21 +34,30 @@ Vamos construir algo incrível juntos! 🚀
 
 ---
 
+---
+
 <details open>
   <summary>⚙ <strong>GitHub Analytics</strong></summary>
   <br>
   <div align="center">
+    <!-- GitHub Stats -->
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Junior-Stranner&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" />
+    <!-- Top Languages -->
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
+  </div>
+  <br>
+  <div align="center">
+    <!-- Streak Stats -->
+    <img height="170" src="https://streak-stats.demolab.com?user=Junior-Stranner&hide_border=true&background=0d1117&stroke=4B0082&ring=8A2BE2&fire=8A2BE2&currStreakLabel=48D1CC&sideNums=48D1CC&currStreakNum=48D1CC" />
+  </div>
+  <br>
+  <div align="center">
+    <p><strong>Contagem de visitantes</strong></p>  
+    <img src="https://profile-counter.glitch.me/Junior-Stranner/count.svg" />
   </div>
 </details>
 
-<!--
-<div align="center">
-  <br><p><strong>Contagem de visitantes</strong></p>  
-  <img src="https://profile-counter.glitch.me/Junior-Stranner/count.svg" />
-</div>
--->
+---
 
 ---
 
